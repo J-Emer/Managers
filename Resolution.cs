@@ -15,7 +15,7 @@
 
         public override string ToString()
         {
-            return $"W: {Width} x H: {Height} x FullScreen: {IsFullScreen}";
+            return $"W: {Width}  H: {Height}  FullScreen: {IsFullScreen}";
         }
     }
 }
